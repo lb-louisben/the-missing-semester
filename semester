@@ -1,2 +1,2 @@
 #!/bin/sh
-curl --head --silent https://www.bing.com
+curl --head --silent https://missing.csail.mit.edu
